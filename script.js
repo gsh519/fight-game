@@ -174,3 +174,4 @@ document.getElementById('modalNextButton').addEventListener('click', function() 
   document.getElementById('modal').classList.remove('active');
   document.getElementById('attack').classList.remove('deactive');
 }) 
+
